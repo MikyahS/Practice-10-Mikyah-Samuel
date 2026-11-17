@@ -89,3 +89,30 @@ nav {
     text-transform: uppercase;
     margin-bottom: 28px;
 }
+
+.button {
+    display: inline-block;
+    padding: 20px 44px;
+    background-color: #da4921;
+    color: #ffffff;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 40px;
+}
+
+.button:visited{
+    color: #ffffff;
+}
+
+.button:hover {
+    background-color: #243a30;
+}
+
+.button:focus {
+    outline: 3px solid #243a30;
+}
+
+.button:active {
+    background-color: black;
+}
