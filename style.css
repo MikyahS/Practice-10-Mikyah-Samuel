@@ -167,5 +167,55 @@ nav {
     background-image: url(Images/croissant.png);
     background-size: cover;
     background-position: center;
-    
+
+}
+
+.strip {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 40px;
+    background-color: #E2C08D;
+    border-radius: 24px;
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 16px;
+}
+
+.blends {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
+
+.blends-green, .blend-rust, .blend-tan {
+    width: 32.5%;
+    padding: 32px;
+    border-radius: 24px;
+}
+
+.blend-green {
+    background-color: #243a30;
+    color: #ffffff;
+}
+
+.blend-rust {
+    background-color: #da4921;
+    color: #ffffff;
+}
+
+.blend-tan { 
+    background-color: #E2C08D;
+}
+
+.blends h2 {
+    font-size: 28px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+.blends a {
+    color: inherit;
+    font-weight: 700;
 }
