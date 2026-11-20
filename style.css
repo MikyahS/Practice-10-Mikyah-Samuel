@@ -233,6 +233,10 @@ nav {
 }
 
 .story-intro {
+    width: 34%;
+}
+
+.story-label {
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 3px;
