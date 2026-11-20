@@ -323,3 +323,39 @@ nav {
 .half-rust .button {
     background-color: #243a30;
 }
+
+.site-footer {
+    background-color: #243a30;
+    color: #f7e1c3;
+    padding: 54px 40px 24px;
+    border-radius: 24px;
+}
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.brand {
+    width: 28%;
+}
+
+.footer-col {
+    width: 28%;
+}
+
+.site-footer a {
+    color: #f7e1c3;
+    text-decoration: none;
+}
+
+.footer-col p {
+    margin: 0 0 8px;
+}
+
+.legal {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px solid #f7e1c3;
+    font-size: 12px;
+}
