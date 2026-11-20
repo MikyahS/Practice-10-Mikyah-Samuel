@@ -245,11 +245,11 @@ nav {
 }
 
 .story-intro h2 {
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: 3px;
+    font-size: 96px;
+    line-height: 0.95;
     text-transform: uppercase;
     color: #E2C08D;
+    
 }
 
 .story-cards {
