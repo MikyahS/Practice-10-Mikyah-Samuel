@@ -220,3 +220,55 @@ nav {
     color: inherit;
     font-weight: 700;
 }
+
+.story {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 96px 64px 40px;
+    background-color: #f7e1c3;
+    color: #f7e1c3;
+    border-radius: 24px;
+    margin-bottom: 16px;
+}
+
+.story-intro {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #e2c08d;
+}
+
+.story-cards {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.step {
+    width: 31%;
+    margin-bottom: 56px;
+}
+
+.step img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+
+.step-number {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: #e2c08d;
+    margin-bottom: 8px;
+}
+
+.step h3 {
+    font-size: 32px;
+    color: #ffffff;
+    margin-bottom: 8px;
+}
